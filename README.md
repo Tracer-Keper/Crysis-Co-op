@@ -18,4 +18,4 @@ If you want to setup your own levels grab the content from the moddb page http:/
 # Multiplayer and Gamespy
 ===================
 
-As the Gamespy servers have been shutdown and Crytek has not provided a suitable replacement, you will need to find a suitable peer-to-peer VPN to play the mod. We personally use EvolveHQ, in future we would like to put something better in place.
+As the Gamespy servers have been shutdown and Crytek has not provided a suitable replacement, you will need to find a suitable peer-to-peer VPN to play the mod. We personally use EvolveHQ, in the future we would like to put something better in place.
